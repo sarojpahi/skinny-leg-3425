@@ -1,38 +1,76 @@
-# skinny-leg-3425
-This is an e-commerce website which basically deals with medicines and medications . 
-It also includes many other functionalities like sorting , filter based on category , price.
-This is a full fleged website where we have used backend as well as frontend and all the functionalities are done from backend.
+# Getting Started with Create React App
 
-### link : https://pharaeasyyy.netlify.app/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Team members:
-1. Akshay Rajput (Team leader)
-2. Saroj pahi
-3. Somya ranjan singh
-4. Supriya pathak
-5. Ujjwal singh
+## Available Scripts
 
-Some images of our websites are :-
-![Screenshot (634)](https://user-images.githubusercontent.com/103635044/208608303-c12e6222-f5c1-4fb6-8848-a2d69f84be24.png)
-![Screenshot (638)](https://user-images.githubusercontent.com/103635044/208608311-7e8a3b6c-6f26-466c-a892-0c59da85183a.png)
-![Screenshot (639)](https://user-images.githubusercontent.com/103635044/208608319-0151eb1f-72ec-4ea4-9732-b96565bc2548.png)
-![Screenshot (640)](https://user-images.githubusercontent.com/103635044/208608324-406153b0-9a4e-4c95-a2d5-81f91fe79ea0.png)
-![Screenshot (641)](https://user-images.githubusercontent.com/103635044/208608331-a44cb923-f506-4d93-999e-7c334bc20f14.png)
+In the project directory, you can run:
 
-## Tech Stack
+### `npm start`
 
-#### Frontend
-- ReactJS
-- Redux
-- Chakra-UI
-- HTML
-- CSS
-- Styled Component
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#### Backend
-- TypeScript
-- Nodejs
-- ExpressJS
-- MongoDB
-- Firebase
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- 320px — 480px: Mobile devices
+481px — 768px: iPads, Tablets
+769px — 1024px: Small screens, laptops
+1025px — 1200px: Desktops, large screens -->
